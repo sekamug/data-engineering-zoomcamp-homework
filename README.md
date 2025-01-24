@@ -10,6 +10,9 @@ ENTRYPOINT ["bash"]
 ##to build the image
 docker build -t python-bash .
 
+#run the container
+docker run -t python-bash
+
 ##check pip version within the container
 pip --version
 
