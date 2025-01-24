@@ -1,6 +1,6 @@
 # data-engineering-zoomcamp-homework
+# Homework 1: Docker, SQL and Terraform
 <pre>
-# repo for homework1
 #code in the Dockerfile
 FROM python:3.12.8
 ##specify the entrypoint
