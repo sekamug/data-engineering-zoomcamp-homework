@@ -3,7 +3,8 @@
 <pre>
 #code in the Dockerfile
 FROM python:3.12.8
-##specify the entrypoint
+  
+#specify the entrypoint
 ENTRYPOINT ["bash"]
 
 ##to build the image
