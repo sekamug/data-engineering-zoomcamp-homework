@@ -1,6 +1,6 @@
 # data-engineering-zoomcamp-homework
-Repo for homework1
-##code in the Dockerfile
+# epo for homework1
+# code in the Dockerfile
 FROM python:3.12.8
 ##specify the entrypoint
 ENTRYPOINT ["bash"]
